@@ -3,21 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cinematickets;
+package cinematickets.controller;
 
 import cinematickets.view.LoginView;
+import cinematickets.view.MainView;
 
 /**
  *
  * @author udin
  */
-public class CinemaTickets {
+public class MainController {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
+    public void loginView() {
+        LoginView loginView = new LoginView();
     }
     
+    public void mainView() {
+        MainView mainView = new MainView();
+    }
+
 }
