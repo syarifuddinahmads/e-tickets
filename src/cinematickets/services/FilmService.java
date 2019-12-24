@@ -15,29 +15,31 @@ import cinematickets.model.Film;
 public class FilmService implements FilmInterface{
 
     @Override
-    public Film createFilm(Film film) {
+    public Object create(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Film editFilm(Film film) {
+    public boolean edit(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Film deleteFilm(Film film) {
+    public boolean delete(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Film updateFilm(Film film) {
+    public boolean update(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Film searchFilm(Film film) {
+    public Object search(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    
 
     
     

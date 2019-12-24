@@ -15,28 +15,30 @@ import cinematickets.model.Showtime;
 public class ShowtimeService implements ShowtimeInterface{
 
     @Override
-    public Showtime createShowtime(Showtime showtime) {
+    public Object create(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Showtime editShowtime(Showtime showtime) {
+    public boolean edit(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Showtime deleteShowtime(Showtime showtime) {
+    public boolean delete(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Showtime updateShowtime(Showtime showtime) {
+    public boolean update(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Showtime searchShowtime(Showtime showtime) {
+    public Object search(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+   
     
 }

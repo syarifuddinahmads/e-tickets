@@ -15,28 +15,30 @@ import cinematickets.model.Transaction;
 public class TransactionService implements TransactionInterface{
 
     @Override
-    public Transaction createTransaction(Transaction transaction) {
+    public Object create(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Transaction editTransaction(Transaction transaction) {
+    public boolean edit(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Transaction deleteTransaction(Transaction transaction) {
+    public boolean delete(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Transaction updateTransaction(Transaction transaction) {
+    public boolean update(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Transaction searchTransaction(Transaction transaction) {
+    public Object search(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    
     
 }

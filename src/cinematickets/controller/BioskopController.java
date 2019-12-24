@@ -5,10 +5,19 @@
  */
 package cinematickets.controller;
 
+import cinematickets.model.Bioskop;
+import cinematickets.services.BioskopService;
+
 /**
  *
  * @author udin
  */
 public class BioskopController  extends MainController{
+    
+    BioskopService bioskopService = new BioskopService();
+    
+    public Bioskop createBioskop(Bioskop bioskop){
+        return (Bioskop) bioskopService.create(bioskop);
+    }
     
 }

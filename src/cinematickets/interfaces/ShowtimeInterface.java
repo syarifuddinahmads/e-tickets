@@ -11,16 +11,7 @@ import cinematickets.model.Showtime;
  *
  * @author udin
  */
-public interface ShowtimeInterface {
+public interface ShowtimeInterface extends BaseInterface{
  
-    public Showtime createShowtime(Showtime showtime);
-
-    public Showtime editShowtime(Showtime showtime);
-
-    public Showtime deleteShowtime(Showtime showtime);
-
-    public Showtime updateShowtime(Showtime showtime);
-
-    public Showtime searchShowtime(Showtime showtime);
     
 }

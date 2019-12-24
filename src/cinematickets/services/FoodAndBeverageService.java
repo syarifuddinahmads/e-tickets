@@ -15,28 +15,30 @@ import cinematickets.model.FoodAndBeverage;
 public class FoodAndBeverageService implements FoodAndBeverageInterface{
 
     @Override
-    public FoodAndBeverage createFilm(FoodAndBeverage foodAndBeverage) {
+    public Object create(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public FoodAndBeverage editFilm(FoodAndBeverage foodAndBeverage) {
+    public boolean edit(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public FoodAndBeverage deleteFilm(FoodAndBeverage foodAndBeverage) {
+    public boolean delete(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public FoodAndBeverage updateFilm(FoodAndBeverage foodAndBeverage) {
+    public boolean update(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public FoodAndBeverage searchFilm(FoodAndBeverage foodAndBeverage) {
+    public Object search(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    
 
 }

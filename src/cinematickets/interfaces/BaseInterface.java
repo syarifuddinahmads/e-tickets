@@ -5,12 +5,18 @@
  */
 package cinematickets.interfaces;
 
-import cinematickets.model.FoodAndBeverage;
-
 /**
  *
  * @author udin
  */
-public interface FoodAndBeverageInterface extends BaseInterface{
-    
+public interface BaseInterface {
+    public Object create(Object Object);
+
+    public boolean edit(Object Object);
+
+    public boolean delete(Object Object);
+
+    public boolean update(Object Object);
+
+    public Object search(Object Object);
 }

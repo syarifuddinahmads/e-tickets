@@ -12,14 +12,6 @@ import cinematickets.model.Transaction;
  *
  * @author udin
  */
-public interface TransactionInterface {
-    public Transaction createTransaction(Transaction transaction);
+public interface TransactionInterface extends BaseInterface{
 
-    public Transaction editTransaction(Transaction transaction);
-
-    public Transaction deleteTransaction(Transaction transaction);
-
-    public Transaction updateTransaction(Transaction transaction);
-
-    public Transaction searchTransaction(Transaction transaction);
 }

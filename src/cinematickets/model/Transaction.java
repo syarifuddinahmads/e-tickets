@@ -26,8 +26,6 @@ public class Transaction {
         this.totalPrice = totalPrice;
     }
     
-    
-
     public Long getId() {
         return id;
     }

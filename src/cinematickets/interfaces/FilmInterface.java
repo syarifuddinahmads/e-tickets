@@ -11,14 +11,6 @@ import cinematickets.model.Film;
  *
  * @author udin
  */
-public interface FilmInterface {
-    public Film createFilm(Film film);
-
-    public Film editFilm(Film film);
-
-    public Film deleteFilm(Film film);
-
-    public Film updateFilm(Film film);
-
-    public Film searchFilm(Film film);
+public interface FilmInterface extends BaseInterface{
+    
 }

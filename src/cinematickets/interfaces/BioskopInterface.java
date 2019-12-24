@@ -11,15 +11,7 @@ import cinematickets.model.Bioskop;
  *
  * @author udin
  */
-public interface BioskopInterface {
+public interface BioskopInterface extends BaseInterface{
 
-    public Bioskop createBioskop(Bioskop bioskop);
-
-    public Bioskop editBioskop(Bioskop bioskop);
-
-    public Bioskop deleteBioskop(Bioskop bioskop);
-
-    public Bioskop updateBioskop(Bioskop bioskop);
-
-    public Bioskop searchBioskop(Bioskop bioskop);
+    
 }

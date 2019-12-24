@@ -22,8 +22,6 @@ public class TransactionDetail {
         this.tipe = tipe;
         this.Qty = Qty;
     }
-    
-    
 
     public Long getId() {
         return id;

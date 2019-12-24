@@ -15,28 +15,30 @@ import cinematickets.model.Bioskop;
 public class BioskopService implements BioskopInterface{
 
     @Override
-    public Bioskop createBioskop(Bioskop bioskop) {
+    public Object create(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Bioskop editBioskop(Bioskop bioskop) {
+    public boolean edit(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Bioskop deleteBioskop(Bioskop bioskop) {
+    public boolean delete(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Bioskop updateBioskop(Bioskop bioskop) {
+    public boolean update(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public Bioskop searchBioskop(Bioskop bioskop) {
+    public Object search(Object Object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    
     
 }
