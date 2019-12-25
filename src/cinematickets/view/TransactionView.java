@@ -132,11 +132,18 @@ public class TransactionView extends javax.swing.JFrame {
         panel108 = new java.awt.Panel();
         panel110 = new java.awt.Panel();
         panel111 = new java.awt.Panel();
+        jLabel1 = new javax.swing.JLabel();
         panel2 = new java.awt.Panel();
         panel109 = new java.awt.Panel();
         label1 = new java.awt.Label();
         label2 = new java.awt.Label();
         label3 = new java.awt.Label();
+        panel112 = new java.awt.Panel();
+        label4 = new java.awt.Label();
+        label5 = new java.awt.Label();
+        label6 = new java.awt.Label();
+        jButton1 = new javax.swing.JButton();
+        jScrollPane1 = new javax.swing.JScrollPane();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -1288,6 +1295,11 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        jLabel1.setFont(new java.awt.Font("Trebuchet MS", 1, 18)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(237, 10, 10));
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel1.setText("S  C  R  E  E  N");
+
         javax.swing.GroupLayout panel1Layout = new javax.swing.GroupLayout(panel1);
         panel1.setLayout(panel1Layout);
         panel1Layout.setHorizontalGroup(
@@ -1480,15 +1492,18 @@ public class TransactionView extends javax.swing.JFrame {
                                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                         .addComponent(panel41, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel43, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel44, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel45, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel46, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel47, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                        .addGroup(panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                            .addComponent(jLabel1)
+                                            .addGroup(panel1Layout.createSequentialGroup()
+                                                .addComponent(panel43, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(panel44, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(panel45, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(panel46, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addComponent(panel47, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
                                 .addGap(45, 45, 45)
                                 .addComponent(panel48, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -1653,7 +1668,8 @@ public class TransactionView extends javax.swing.JFrame {
                                     .addComponent(panel52, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                             .addComponent(panel8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                     .addComponent(panel65, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(125, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 95, Short.MAX_VALUE)
+                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 37, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
         panel2.setBackground(new java.awt.Color(75, 0, 130));
@@ -1670,28 +1686,65 @@ public class TransactionView extends javax.swing.JFrame {
         panel109.setLayout(panel109Layout);
         panel109Layout.setHorizontalGroup(
             panel109Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 682, Short.MAX_VALUE)
+            .addGap(0, 103, Short.MAX_VALUE)
         );
         panel109Layout.setVerticalGroup(
             panel109Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 25, Short.MAX_VALUE)
+            .addGap(0, 105, Short.MAX_VALUE)
         );
+
+        panel112.setBackground(new java.awt.Color(230, 230, 250));
+
+        label4.setText("label1");
+
+        label5.setText("label2");
+
+        label6.setText("label3");
+
+        javax.swing.GroupLayout panel112Layout = new javax.swing.GroupLayout(panel112);
+        panel112.setLayout(panel112Layout);
+        panel112Layout.setHorizontalGroup(
+            panel112Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 103, Short.MAX_VALUE)
+        );
+        panel112Layout.setVerticalGroup(
+            panel112Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 105, Short.MAX_VALUE)
+        );
+
+        jButton1.setFont(new java.awt.Font("Trebuchet MS", 1, 36)); // NOI18N
+        jButton1.setText("PAY TICKETS");
 
         javax.swing.GroupLayout panel2Layout = new javax.swing.GroupLayout(panel2);
         panel2.setLayout(panel2Layout);
         panel2Layout.setHorizontalGroup(
             panel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, panel2Layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(panel2Layout.createSequentialGroup()
+                .addContainerGap()
                 .addComponent(panel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(34, 34, 34))
+                .addGap(24, 24, 24)
+                .addComponent(panel112, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(35, 35, 35)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 181, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 273, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(24, 24, 24))
         );
         panel2Layout.setVerticalGroup(
             panel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panel2Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(panel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(132, Short.MAX_VALUE))
+                .addGroup(panel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 105, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(panel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                        .addGroup(panel2Layout.createSequentialGroup()
+                            .addContainerGap()
+                            .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 105, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGroup(javax.swing.GroupLayout.Alignment.LEADING, panel2Layout.createSequentialGroup()
+                            .addGap(25, 25, 25)
+                            .addGroup(panel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                .addComponent(panel112, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(panel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addContainerGap(30, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -1753,9 +1806,15 @@ public class TransactionView extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton jButton1;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JScrollPane jScrollPane1;
     private java.awt.Label label1;
     private java.awt.Label label2;
     private java.awt.Label label3;
+    private java.awt.Label label4;
+    private java.awt.Label label5;
+    private java.awt.Label label6;
     private java.awt.Panel panel1;
     private java.awt.Panel panel10;
     private java.awt.Panel panel100;
@@ -1771,6 +1830,7 @@ public class TransactionView extends javax.swing.JFrame {
     private java.awt.Panel panel11;
     private java.awt.Panel panel110;
     private java.awt.Panel panel111;
+    private java.awt.Panel panel112;
     private java.awt.Panel panel12;
     private java.awt.Panel panel13;
     private java.awt.Panel panel14;
