@@ -1712,6 +1712,7 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 105, Short.MAX_VALUE)
         );
 
+        jButton1.setBackground(new java.awt.Color(255, 0, 255));
         jButton1.setFont(new java.awt.Font("Trebuchet MS", 1, 36)); // NOI18N
         jButton1.setText("PAY TICKETS");
 
