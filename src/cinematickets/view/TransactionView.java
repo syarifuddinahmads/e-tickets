@@ -149,6 +149,8 @@ public class TransactionView extends javax.swing.JFrame {
 
         panel1.setBackground(new java.awt.Color(75, 0, 130));
 
+        panel3.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel3Layout = new javax.swing.GroupLayout(panel3);
         panel3.setLayout(panel3Layout);
         panel3Layout.setHorizontalGroup(
@@ -159,6 +161,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
         );
+
+        panel4.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel4Layout = new javax.swing.GroupLayout(panel4);
         panel4.setLayout(panel4Layout);
@@ -171,18 +175,22 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
+        panel5.setBackground(java.awt.Color.white);
+        panel5.setForeground(new java.awt.Color(250, 243, 243));
         panel5.setPreferredSize(new java.awt.Dimension(29, 27));
 
         javax.swing.GroupLayout panel5Layout = new javax.swing.GroupLayout(panel5);
         panel5.setLayout(panel5Layout);
         panel5Layout.setHorizontalGroup(
             panel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 29, Short.MAX_VALUE)
+            .addGap(0, 0, Short.MAX_VALUE)
         );
         panel5Layout.setVerticalGroup(
             panel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 27, Short.MAX_VALUE)
         );
+
+        panel6.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel6Layout = new javax.swing.GroupLayout(panel6);
         panel6.setLayout(panel6Layout);
@@ -195,16 +203,20 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
+        panel7.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel7Layout = new javax.swing.GroupLayout(panel7);
         panel7.setLayout(panel7Layout);
         panel7Layout.setHorizontalGroup(
             panel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
+            .addGap(0, 29, Short.MAX_VALUE)
         );
         panel7Layout.setVerticalGroup(
             panel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel8.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel8Layout = new javax.swing.GroupLayout(panel8);
         panel8.setLayout(panel8Layout);
@@ -217,6 +229,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel9.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel9Layout = new javax.swing.GroupLayout(panel9);
         panel9.setLayout(panel9Layout);
         panel9Layout.setHorizontalGroup(
@@ -227,6 +241,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel10.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel10Layout = new javax.swing.GroupLayout(panel10);
         panel10.setLayout(panel10Layout);
@@ -239,6 +255,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel11.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel11Layout = new javax.swing.GroupLayout(panel11);
         panel11.setLayout(panel11Layout);
         panel11Layout.setHorizontalGroup(
@@ -249,6 +267,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel12.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel12Layout = new javax.swing.GroupLayout(panel12);
         panel12.setLayout(panel12Layout);
@@ -261,6 +281,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel13.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel13Layout = new javax.swing.GroupLayout(panel13);
         panel13.setLayout(panel13Layout);
         panel13Layout.setHorizontalGroup(
@@ -271,6 +293,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel14.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel14Layout = new javax.swing.GroupLayout(panel14);
         panel14.setLayout(panel14Layout);
@@ -283,6 +307,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel15.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel15Layout = new javax.swing.GroupLayout(panel15);
         panel15.setLayout(panel15Layout);
         panel15Layout.setHorizontalGroup(
@@ -293,6 +319,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel20.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel20Layout = new javax.swing.GroupLayout(panel20);
         panel20.setLayout(panel20Layout);
@@ -305,6 +333,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel21.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel21Layout = new javax.swing.GroupLayout(panel21);
         panel21.setLayout(panel21Layout);
         panel21Layout.setHorizontalGroup(
@@ -315,6 +345,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel22.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel22Layout = new javax.swing.GroupLayout(panel22);
         panel22.setLayout(panel22Layout);
@@ -327,6 +359,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel23.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel23Layout = new javax.swing.GroupLayout(panel23);
         panel23.setLayout(panel23Layout);
         panel23Layout.setHorizontalGroup(
@@ -337,6 +371,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel24.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel24Layout = new javax.swing.GroupLayout(panel24);
         panel24.setLayout(panel24Layout);
@@ -349,6 +385,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel25.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel25Layout = new javax.swing.GroupLayout(panel25);
         panel25.setLayout(panel25Layout);
         panel25Layout.setHorizontalGroup(
@@ -359,6 +397,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel26.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel26Layout = new javax.swing.GroupLayout(panel26);
         panel26.setLayout(panel26Layout);
@@ -371,6 +411,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel27.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel27Layout = new javax.swing.GroupLayout(panel27);
         panel27.setLayout(panel27Layout);
         panel27Layout.setHorizontalGroup(
@@ -381,6 +423,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel28.setBackground(java.awt.Color.white);
+        panel28.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel28Layout = new javax.swing.GroupLayout(panel28);
         panel28.setLayout(panel28Layout);
@@ -393,6 +438,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel29.setBackground(java.awt.Color.white);
+        panel29.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel29Layout = new javax.swing.GroupLayout(panel29);
         panel29.setLayout(panel29Layout);
         panel29Layout.setHorizontalGroup(
@@ -403,6 +451,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel30.setBackground(java.awt.Color.white);
+        panel30.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel30Layout = new javax.swing.GroupLayout(panel30);
         panel30.setLayout(panel30Layout);
@@ -415,6 +466,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel31.setBackground(java.awt.Color.white);
+        panel31.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel31Layout = new javax.swing.GroupLayout(panel31);
         panel31.setLayout(panel31Layout);
         panel31Layout.setHorizontalGroup(
@@ -425,6 +479,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel32.setBackground(java.awt.Color.white);
+        panel32.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel32Layout = new javax.swing.GroupLayout(panel32);
         panel32.setLayout(panel32Layout);
@@ -437,6 +494,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel33.setBackground(java.awt.Color.white);
+        panel33.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel33Layout = new javax.swing.GroupLayout(panel33);
         panel33.setLayout(panel33Layout);
         panel33Layout.setHorizontalGroup(
@@ -447,6 +507,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel34.setBackground(java.awt.Color.white);
+        panel34.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel34Layout = new javax.swing.GroupLayout(panel34);
         panel34.setLayout(panel34Layout);
@@ -459,6 +522,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel35.setBackground(java.awt.Color.white);
+        panel35.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel35Layout = new javax.swing.GroupLayout(panel35);
         panel35.setLayout(panel35Layout);
         panel35Layout.setHorizontalGroup(
@@ -469,6 +535,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel36.setBackground(java.awt.Color.white);
+        panel36.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel36Layout = new javax.swing.GroupLayout(panel36);
         panel36.setLayout(panel36Layout);
@@ -481,6 +550,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel37.setBackground(java.awt.Color.white);
+        panel37.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel37Layout = new javax.swing.GroupLayout(panel37);
         panel37.setLayout(panel37Layout);
         panel37Layout.setHorizontalGroup(
@@ -491,6 +563,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel38.setBackground(java.awt.Color.white);
+        panel38.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel38Layout = new javax.swing.GroupLayout(panel38);
         panel38.setLayout(panel38Layout);
@@ -503,6 +578,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel39.setBackground(java.awt.Color.white);
+        panel39.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel39Layout = new javax.swing.GroupLayout(panel39);
         panel39.setLayout(panel39Layout);
         panel39Layout.setHorizontalGroup(
@@ -513,6 +591,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel40.setBackground(java.awt.Color.white);
+        panel40.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel40Layout = new javax.swing.GroupLayout(panel40);
         panel40.setLayout(panel40Layout);
@@ -525,6 +606,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel41.setBackground(java.awt.Color.white);
+        panel41.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel41Layout = new javax.swing.GroupLayout(panel41);
         panel41.setLayout(panel41Layout);
         panel41Layout.setHorizontalGroup(
@@ -535,6 +619,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel41Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel42.setBackground(java.awt.Color.white);
+        panel42.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel42Layout = new javax.swing.GroupLayout(panel42);
         panel42.setLayout(panel42Layout);
@@ -547,6 +634,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel43.setBackground(java.awt.Color.white);
+        panel43.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel43Layout = new javax.swing.GroupLayout(panel43);
         panel43.setLayout(panel43Layout);
         panel43Layout.setHorizontalGroup(
@@ -557,6 +647,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel43Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel44.setBackground(java.awt.Color.white);
+        panel44.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel44Layout = new javax.swing.GroupLayout(panel44);
         panel44.setLayout(panel44Layout);
@@ -569,6 +662,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel45.setBackground(java.awt.Color.white);
+        panel45.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel45Layout = new javax.swing.GroupLayout(panel45);
         panel45.setLayout(panel45Layout);
         panel45Layout.setHorizontalGroup(
@@ -579,6 +675,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel45Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel46.setBackground(java.awt.Color.white);
+        panel46.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel46Layout = new javax.swing.GroupLayout(panel46);
         panel46.setLayout(panel46Layout);
@@ -591,6 +690,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel47.setBackground(java.awt.Color.white);
+        panel47.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel47Layout = new javax.swing.GroupLayout(panel47);
         panel47.setLayout(panel47Layout);
         panel47Layout.setHorizontalGroup(
@@ -601,6 +703,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel47Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel48.setBackground(java.awt.Color.white);
+        panel48.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel48Layout = new javax.swing.GroupLayout(panel48);
         panel48.setLayout(panel48Layout);
@@ -613,6 +718,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel49.setBackground(java.awt.Color.white);
+        panel49.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel49Layout = new javax.swing.GroupLayout(panel49);
         panel49.setLayout(panel49Layout);
         panel49Layout.setHorizontalGroup(
@@ -623,6 +731,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel49Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel50.setBackground(java.awt.Color.white);
+        panel50.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel50Layout = new javax.swing.GroupLayout(panel50);
         panel50.setLayout(panel50Layout);
@@ -635,6 +746,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel51.setBackground(java.awt.Color.white);
+        panel51.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel51Layout = new javax.swing.GroupLayout(panel51);
         panel51.setLayout(panel51Layout);
         panel51Layout.setHorizontalGroup(
@@ -645,6 +759,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel52.setBackground(java.awt.Color.white);
+        panel52.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel52Layout = new javax.swing.GroupLayout(panel52);
         panel52.setLayout(panel52Layout);
@@ -657,6 +774,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel53.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel53Layout = new javax.swing.GroupLayout(panel53);
         panel53.setLayout(panel53Layout);
         panel53Layout.setHorizontalGroup(
@@ -667,6 +786,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel53Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel54.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel54Layout = new javax.swing.GroupLayout(panel54);
         panel54.setLayout(panel54Layout);
@@ -679,6 +800,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel55.setBackground(java.awt.Color.white);
+        panel55.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel55Layout = new javax.swing.GroupLayout(panel55);
         panel55.setLayout(panel55Layout);
         panel55Layout.setHorizontalGroup(
@@ -689,6 +813,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel55Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel56.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel56Layout = new javax.swing.GroupLayout(panel56);
         panel56.setLayout(panel56Layout);
@@ -701,6 +827,8 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel57.setBackground(java.awt.Color.white);
+
         javax.swing.GroupLayout panel57Layout = new javax.swing.GroupLayout(panel57);
         panel57.setLayout(panel57Layout);
         panel57Layout.setHorizontalGroup(
@@ -711,6 +839,8 @@ public class TransactionView extends javax.swing.JFrame {
             panel57Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel58.setBackground(java.awt.Color.white);
 
         javax.swing.GroupLayout panel58Layout = new javax.swing.GroupLayout(panel58);
         panel58.setLayout(panel58Layout);
@@ -723,6 +853,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel59.setBackground(java.awt.Color.white);
+        panel59.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel59Layout = new javax.swing.GroupLayout(panel59);
         panel59.setLayout(panel59Layout);
         panel59Layout.setHorizontalGroup(
@@ -733,6 +866,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel59Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel60.setBackground(java.awt.Color.white);
+        panel60.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel60Layout = new javax.swing.GroupLayout(panel60);
         panel60.setLayout(panel60Layout);
@@ -745,6 +881,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel61.setBackground(java.awt.Color.white);
+        panel61.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel61Layout = new javax.swing.GroupLayout(panel61);
         panel61.setLayout(panel61Layout);
         panel61Layout.setHorizontalGroup(
@@ -755,6 +894,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel62.setBackground(java.awt.Color.white);
+        panel62.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel62Layout = new javax.swing.GroupLayout(panel62);
         panel62.setLayout(panel62Layout);
@@ -767,6 +909,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel63.setBackground(java.awt.Color.white);
+        panel63.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel63Layout = new javax.swing.GroupLayout(panel63);
         panel63.setLayout(panel63Layout);
         panel63Layout.setHorizontalGroup(
@@ -777,6 +922,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel63Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel64.setBackground(java.awt.Color.white);
+        panel64.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel64Layout = new javax.swing.GroupLayout(panel64);
         panel64.setLayout(panel64Layout);
@@ -789,6 +937,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel65.setBackground(java.awt.Color.white);
+        panel65.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel65Layout = new javax.swing.GroupLayout(panel65);
         panel65.setLayout(panel65Layout);
         panel65Layout.setHorizontalGroup(
@@ -799,6 +950,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel65Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel66.setBackground(java.awt.Color.white);
+        panel66.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel66Layout = new javax.swing.GroupLayout(panel66);
         panel66.setLayout(panel66Layout);
@@ -811,6 +965,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel67.setBackground(java.awt.Color.white);
+        panel67.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel67Layout = new javax.swing.GroupLayout(panel67);
         panel67.setLayout(panel67Layout);
         panel67Layout.setHorizontalGroup(
@@ -821,6 +978,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel67Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel68.setBackground(java.awt.Color.white);
+        panel68.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel68Layout = new javax.swing.GroupLayout(panel68);
         panel68.setLayout(panel68Layout);
@@ -833,6 +993,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel69.setBackground(java.awt.Color.white);
+        panel69.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel69Layout = new javax.swing.GroupLayout(panel69);
         panel69.setLayout(panel69Layout);
         panel69Layout.setHorizontalGroup(
@@ -843,6 +1006,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel69Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel70.setBackground(java.awt.Color.white);
+        panel70.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel70Layout = new javax.swing.GroupLayout(panel70);
         panel70.setLayout(panel70Layout);
@@ -855,6 +1021,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel71.setBackground(java.awt.Color.white);
+        panel71.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel71Layout = new javax.swing.GroupLayout(panel71);
         panel71.setLayout(panel71Layout);
         panel71Layout.setHorizontalGroup(
@@ -865,6 +1034,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel72.setBackground(java.awt.Color.white);
+        panel72.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel72Layout = new javax.swing.GroupLayout(panel72);
         panel72.setLayout(panel72Layout);
@@ -877,6 +1049,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel73.setBackground(java.awt.Color.white);
+        panel73.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel73Layout = new javax.swing.GroupLayout(panel73);
         panel73.setLayout(panel73Layout);
         panel73Layout.setHorizontalGroup(
@@ -887,6 +1062,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel74.setBackground(java.awt.Color.white);
+        panel74.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel74Layout = new javax.swing.GroupLayout(panel74);
         panel74.setLayout(panel74Layout);
@@ -899,6 +1077,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel75.setBackground(java.awt.Color.white);
+        panel75.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel75Layout = new javax.swing.GroupLayout(panel75);
         panel75.setLayout(panel75Layout);
         panel75Layout.setHorizontalGroup(
@@ -909,6 +1090,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel75Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel76.setBackground(java.awt.Color.white);
+        panel76.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel76Layout = new javax.swing.GroupLayout(panel76);
         panel76.setLayout(panel76Layout);
@@ -921,6 +1105,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel77.setBackground(java.awt.Color.white);
+        panel77.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel77Layout = new javax.swing.GroupLayout(panel77);
         panel77.setLayout(panel77Layout);
         panel77Layout.setHorizontalGroup(
@@ -931,6 +1118,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel77Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel78.setBackground(java.awt.Color.white);
+        panel78.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel78Layout = new javax.swing.GroupLayout(panel78);
         panel78.setLayout(panel78Layout);
@@ -943,6 +1133,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel79.setBackground(java.awt.Color.white);
+        panel79.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel79Layout = new javax.swing.GroupLayout(panel79);
         panel79.setLayout(panel79Layout);
         panel79Layout.setHorizontalGroup(
@@ -953,6 +1146,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel79Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel80.setBackground(java.awt.Color.white);
+        panel80.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel80Layout = new javax.swing.GroupLayout(panel80);
         panel80.setLayout(panel80Layout);
@@ -965,6 +1161,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel81.setBackground(java.awt.Color.white);
+        panel81.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel81Layout = new javax.swing.GroupLayout(panel81);
         panel81.setLayout(panel81Layout);
         panel81Layout.setHorizontalGroup(
@@ -975,6 +1174,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel82.setBackground(java.awt.Color.white);
+        panel82.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel82Layout = new javax.swing.GroupLayout(panel82);
         panel82.setLayout(panel82Layout);
@@ -987,6 +1189,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel83.setBackground(java.awt.Color.white);
+        panel83.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel83Layout = new javax.swing.GroupLayout(panel83);
         panel83.setLayout(panel83Layout);
         panel83Layout.setHorizontalGroup(
@@ -997,6 +1202,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel83Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel84.setBackground(java.awt.Color.white);
+        panel84.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel84Layout = new javax.swing.GroupLayout(panel84);
         panel84.setLayout(panel84Layout);
@@ -1009,6 +1217,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel85.setBackground(java.awt.Color.white);
+        panel85.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel85Layout = new javax.swing.GroupLayout(panel85);
         panel85.setLayout(panel85Layout);
         panel85Layout.setHorizontalGroup(
@@ -1019,6 +1230,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel85Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel86.setBackground(java.awt.Color.white);
+        panel86.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel86Layout = new javax.swing.GroupLayout(panel86);
         panel86.setLayout(panel86Layout);
@@ -1031,6 +1245,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel87.setBackground(java.awt.Color.white);
+        panel87.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel87Layout = new javax.swing.GroupLayout(panel87);
         panel87.setLayout(panel87Layout);
         panel87Layout.setHorizontalGroup(
@@ -1041,6 +1258,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel87Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel88.setBackground(java.awt.Color.white);
+        panel88.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel88Layout = new javax.swing.GroupLayout(panel88);
         panel88.setLayout(panel88Layout);
@@ -1053,6 +1273,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel89.setBackground(java.awt.Color.white);
+        panel89.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel89Layout = new javax.swing.GroupLayout(panel89);
         panel89.setLayout(panel89Layout);
         panel89Layout.setHorizontalGroup(
@@ -1063,6 +1286,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel89Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel90.setBackground(java.awt.Color.white);
+        panel90.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel90Layout = new javax.swing.GroupLayout(panel90);
         panel90.setLayout(panel90Layout);
@@ -1075,6 +1301,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel91.setBackground(java.awt.Color.white);
+        panel91.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel91Layout = new javax.swing.GroupLayout(panel91);
         panel91.setLayout(panel91Layout);
         panel91Layout.setHorizontalGroup(
@@ -1085,6 +1314,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel92.setBackground(java.awt.Color.white);
+        panel92.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel92Layout = new javax.swing.GroupLayout(panel92);
         panel92.setLayout(panel92Layout);
@@ -1097,6 +1329,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel93.setBackground(java.awt.Color.white);
+        panel93.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel93Layout = new javax.swing.GroupLayout(panel93);
         panel93.setLayout(panel93Layout);
         panel93Layout.setHorizontalGroup(
@@ -1107,6 +1342,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel93Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel94.setBackground(java.awt.Color.white);
+        panel94.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel94Layout = new javax.swing.GroupLayout(panel94);
         panel94.setLayout(panel94Layout);
@@ -1119,6 +1357,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel95.setBackground(java.awt.Color.white);
+        panel95.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel95Layout = new javax.swing.GroupLayout(panel95);
         panel95.setLayout(panel95Layout);
         panel95Layout.setHorizontalGroup(
@@ -1129,6 +1370,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel95Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel96.setBackground(java.awt.Color.white);
+        panel96.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel96Layout = new javax.swing.GroupLayout(panel96);
         panel96.setLayout(panel96Layout);
@@ -1141,6 +1385,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel97.setBackground(java.awt.Color.white);
+        panel97.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel97Layout = new javax.swing.GroupLayout(panel97);
         panel97.setLayout(panel97Layout);
         panel97Layout.setHorizontalGroup(
@@ -1151,6 +1398,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel97Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel98.setBackground(java.awt.Color.white);
+        panel98.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel98Layout = new javax.swing.GroupLayout(panel98);
         panel98.setLayout(panel98Layout);
@@ -1163,6 +1413,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel99.setBackground(java.awt.Color.white);
+        panel99.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel99Layout = new javax.swing.GroupLayout(panel99);
         panel99.setLayout(panel99Layout);
         panel99Layout.setHorizontalGroup(
@@ -1173,6 +1426,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel99Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel100.setBackground(java.awt.Color.white);
+        panel100.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel100Layout = new javax.swing.GroupLayout(panel100);
         panel100.setLayout(panel100Layout);
@@ -1185,6 +1441,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel101.setBackground(java.awt.Color.white);
+        panel101.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel101Layout = new javax.swing.GroupLayout(panel101);
         panel101.setLayout(panel101Layout);
         panel101Layout.setHorizontalGroup(
@@ -1195,6 +1454,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel101Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel102.setBackground(java.awt.Color.white);
+        panel102.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel102Layout = new javax.swing.GroupLayout(panel102);
         panel102.setLayout(panel102Layout);
@@ -1207,6 +1469,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel103.setBackground(java.awt.Color.white);
+        panel103.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel103Layout = new javax.swing.GroupLayout(panel103);
         panel103.setLayout(panel103Layout);
         panel103Layout.setHorizontalGroup(
@@ -1217,6 +1482,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel103Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel104.setBackground(java.awt.Color.white);
+        panel104.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel104Layout = new javax.swing.GroupLayout(panel104);
         panel104.setLayout(panel104Layout);
@@ -1229,6 +1497,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel105.setBackground(java.awt.Color.white);
+        panel105.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel105Layout = new javax.swing.GroupLayout(panel105);
         panel105.setLayout(panel105Layout);
         panel105Layout.setHorizontalGroup(
@@ -1239,6 +1510,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel105Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel106.setBackground(java.awt.Color.white);
+        panel106.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel106Layout = new javax.swing.GroupLayout(panel106);
         panel106.setLayout(panel106Layout);
@@ -1251,6 +1525,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel107.setBackground(java.awt.Color.white);
+        panel107.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel107Layout = new javax.swing.GroupLayout(panel107);
         panel107.setLayout(panel107Layout);
         panel107Layout.setHorizontalGroup(
@@ -1261,6 +1538,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel107Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel108.setBackground(java.awt.Color.white);
+        panel108.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel108Layout = new javax.swing.GroupLayout(panel108);
         panel108.setLayout(panel108Layout);
@@ -1273,6 +1553,9 @@ public class TransactionView extends javax.swing.JFrame {
             .addGap(0, 29, Short.MAX_VALUE)
         );
 
+        panel110.setBackground(java.awt.Color.white);
+        panel110.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
         javax.swing.GroupLayout panel110Layout = new javax.swing.GroupLayout(panel110);
         panel110.setLayout(panel110Layout);
         panel110Layout.setHorizontalGroup(
@@ -1283,6 +1566,9 @@ public class TransactionView extends javax.swing.JFrame {
             panel110Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 29, Short.MAX_VALUE)
         );
+
+        panel111.setBackground(java.awt.Color.white);
+        panel111.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         javax.swing.GroupLayout panel111Layout = new javax.swing.GroupLayout(panel111);
         panel111.setLayout(panel111Layout);
@@ -1305,37 +1591,34 @@ public class TransactionView extends javax.swing.JFrame {
         panel1Layout.setHorizontalGroup(
             panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panel1Layout.createSequentialGroup()
-                .addContainerGap()
+                .addContainerGap(20, Short.MAX_VALUE)
                 .addGroup(panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(panel1Layout.createSequentialGroup()
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, panel1Layout.createSequentialGroup()
                         .addGroup(panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                             .addGroup(panel1Layout.createSequentialGroup()
                                 .addComponent(panel56, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(panel15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(panel1Layout.createSequentialGroup()
                                 .addComponent(panel22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(panel8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(panel1Layout.createSequentialGroup()
-                                .addGap(0, 0, Short.MAX_VALUE)
-                                .addGroup(panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                    .addGroup(panel1Layout.createSequentialGroup()
-                                        .addComponent(panel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(panel1Layout.createSequentialGroup()
-                                        .addComponent(panel58, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(panel1Layout.createSequentialGroup()
-                                        .addComponent(panel57, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(panel1Layout.createSequentialGroup()
-                                        .addComponent(panel21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(panel20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                                .addComponent(panel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(panel4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addGroup(panel1Layout.createSequentialGroup()
+                                .addComponent(panel58, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(panel13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addGroup(panel1Layout.createSequentialGroup()
+                                .addComponent(panel57, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(panel14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addGroup(panel1Layout.createSequentialGroup()
+                                .addComponent(panel21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(panel20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(panel1Layout.createSequentialGroup()
@@ -1525,8 +1808,7 @@ public class TransactionView extends javax.swing.JFrame {
                                 .addComponent(panel73, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                 .addComponent(panel74, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                    .addGroup(panel1Layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, panel1Layout.createSequentialGroup()
                         .addComponent(panel53, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(panel54, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1536,7 +1818,7 @@ public class TransactionView extends javax.swing.JFrame {
                         .addComponent(panel111, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(10, 10, 10)
                         .addComponent(panel55, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(11, Short.MAX_VALUE))
         );
         panel1Layout.setVerticalGroup(
             panel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1752,12 +2034,8 @@ public class TransactionView extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(panel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(panel2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                .addContainerGap())
+            .addComponent(panel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(panel2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

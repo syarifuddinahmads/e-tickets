@@ -5,7 +5,9 @@
  */
 package cinematickets;
 
+import cinematickets.view.FilmView2;
 import cinematickets.view.LoginView;
+import cinematickets.view.TransactionView;
 
 /**
  *
@@ -17,7 +19,9 @@ public class CinemaTickets {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+       FilmView2 flm2 = new FilmView2();
+       
+       
     }
     
 }

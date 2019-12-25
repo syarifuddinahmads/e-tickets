@@ -6,9 +6,13 @@
             <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/model/Showtime.java</file>
             <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/CinemaTickets.java</file>
             <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/view/FilmView.java</file>
-            <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/view/Componnent.java</file>
+            <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/interfaces/FilmInterface.java</file>
+            <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/view/MainView.java</file>
+            <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/model/Bioskop.java</file>
             <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/view/TransactionView.java</file>
+            <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/services/ShowtimeService.java</file>
             <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/model/Film.java</file>
+            <file>file:/home/yogi-06926/projectUAS/e-tickets/src/cinematickets/interfaces/BioskopInterface.java</file>
         </group>
     </open-files>
 </project-private>
